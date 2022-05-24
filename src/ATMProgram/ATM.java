@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package assignment.pkg5;
+package ATMProgram;
 
 /**
  *
@@ -15,7 +15,7 @@ public class ATM {
     private int fifties;
     private int twenties;
     private int tens;
-    private int amountToDispense;
+    private int amountToDispense;//no
 
     public ATM(int f, int tw, int te) {
         fifties = f;
